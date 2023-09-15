@@ -1,0 +1,173 @@
+.body{
+    background-color: #ebdffd;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+/*TITULO (JUEGOS)*/
+.body .header .section .titulo{
+    background-color: #e9cfea;
+    font-size: 2em;
+    color:purple;
+    text-align: center;
+    margin-left: 5%; 
+    margin-right: 5%;
+    border-radius: 5px 5px 5px 5px;
+    border: 2px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 2px 2px 2px 2px rgb(204, 4, 204);
+}
+
+/*SUBTITULO (LOS MAS VENDIDOS)*/
+.body .main .subtitulo{
+    color:purple;
+    line-height: 2.0;
+    text-align: center;
+    background-color:#e9cfea;
+    border-radius: 5px 5px 5px 5px; 
+    margin-left: 5%; 
+    margin-right: 80%; 
+    margin-bottom: 1%;
+    margin-top: 1%;
+    border-radius: 5px 5px 5px 5px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px rgb(204, 4, 204);
+}
+
+/*CAJA BLANCA MARIO KARTS*/
+.body .main .cajablanca1{
+    background-color:#e9cfea;
+    border-radius: 5px 5px 5px 5px; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+    margin-bottom: 2%;
+    border-radius: 5px 5px 5px 5px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px 5px rgb(204, 4, 204);
+}
+
+/*MARIO KARTS*/
+.body .main .cajablanca1 .mariokart .Header{
+    margin-left: 2%; 
+    margin-top: 2%;
+    text-align: left;
+    color: purple; 
+    font-size: 1.5em;
+    text-decoration: underline;
+    line-height: 2.0;
+}
+
+.body .main .cajablanca1 .mariokart .Main{
+    margin-left: 2%; 
+    margin-right: 2%;
+    margin-top: 2%;
+    text-align: left;
+    color: black; 
+    font-size: 1.0em;
+
+}
+
+.body .main .cajablanca1 .mariokart .Main .img{
+    float:left; 
+    width: 25%; 
+    height: auto; 
+    object-fit: cover;
+    text-align: left;
+}
+
+.body .main .cajablanca1 .mariokart .Footer .boton{
+    color:white;
+    display:inline-block; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    font-size: 1.1em;
+    background-color: purple;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+}
+
+.body .main .cajablanca1 .mariokart .Footer .boton .vinculo{
+    color: white;
+}
+
+/*CAJA BLANCA MORTAL KOMBAT*/
+.body .main .cajablanca2{
+    background-color:#e9cfea;
+    border-radius: 5px 5px 5px 5px; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+    margin-bottom: 2%;
+    border-radius: 5px 5px 5px 5px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px 5px rgb(204, 4, 204);
+}
+
+/*MORTAL KOMBAT*/
+.body .main .cajablanca2 .mortalkombat .Header{
+    margin-right: 2%; 
+    margin-top: 2%;
+    text-align: right;
+    color: purple; 
+    font-size: 1.5em;
+    text-decoration: underline;
+    line-height: 2.0;
+}
+
+.body .main .cajablanca2 .mortalkombat .Main{
+    margin-right: 2%; 
+    margin-right: 2%;
+    margin-top: 2%;
+    text-align: right;
+    color: black; 
+    font-size: 1.0em;
+}
+
+.body .main .cajablanca2 .mortalkombat .Main .img{
+    float:right; 
+    width: 25%; 
+    height: auto; 
+    object-fit: cover;
+    text-align: right;
+}
+
+.body .main .cajablanca2 .mortalkombat .Footer .boton{
+    color:white;
+    display:inline-block; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    font-size: 1.1em;
+    background-color: purple;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+}
+
+.body .main .cajablanca2 .mortalkombat .Footer .boton .vinculo{
+    color: white;
+}
+
+/*INFORMACION ADICIONAL*/
+.body .footer{
+    background-color:  #e9cfea; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+    margin-bottom:2%;
+    box-shadow: 5px 5px 5px 5px rgb(204, 4, 204);
+    border: 2px solid black;
+}
+
+.body .footer .section{
+    text-align: center;
+    color:purple;
+    text-align: center; 
+    padding-top: 2%;
+}
